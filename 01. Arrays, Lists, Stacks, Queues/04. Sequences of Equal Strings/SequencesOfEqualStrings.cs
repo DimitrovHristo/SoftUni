@@ -7,7 +7,6 @@ class SequencesOfEqualStrings
     {
         List<string> arrayString = new List<string>(Console.ReadLine().Split());
 
-
         for (int i = 0; i < arrayString.Count; i++)
         {
             if (i < arrayString.Count - 1)
