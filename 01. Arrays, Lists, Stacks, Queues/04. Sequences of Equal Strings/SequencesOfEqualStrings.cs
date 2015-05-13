@@ -14,7 +14,7 @@ class SequencesOfEqualStrings
             {
                 for (int j = i + 1; j < arrayString.Count; j++)
                 {
-                    if (arrayString[i] == arrString[j])
+                    if (arrayString[i] == arrayString[j])
                     {
                         Console.Write(arrayString[j] + " ");
                         arrayString.RemoveAt(j);
