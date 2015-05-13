@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\05. Reverse Number\bin\Debug\_05.Reverse_Number.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\05. Reverse Number\bin\Debug\_05.Reverse_Number.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\05. Reverse Number\obj\Debug\_05.Reverse_Number.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\05. Reverse Number\obj\Debug\_05.Reverse_Number.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\05. Reverse Number\obj\Debug\05. Reverse Number.csprojResolveAssemblyReference.cache

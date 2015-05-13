@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\04. First Larger Than Neighbours\bin\Debug\_04.First_Larger_Than_Neighbours.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\04. First Larger Than Neighbours\bin\Debug\_04.First_Larger_Than_Neighbours.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\04. First Larger Than Neighbours\obj\Debug\_04.First_Larger_Than_Neighbours.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Methods\04. First Larger Than Neighbours\obj\Debug\_04.First_Larger_Than_Neighbours.pdb
