@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\08. Night Life\bin\Debug\_08.Night_Life.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\08. Night Life\bin\Debug\_08.Night_Life.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\08. Night Life\obj\Debug\_08.Night_Life.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\08. Night Life\obj\Debug\_08.Night_Life.pdb

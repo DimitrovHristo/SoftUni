@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\07. Phonebook\obj\Debug\_07.Phonebook.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\07. Phonebook\obj\Debug\_07.Phonebook.pdb

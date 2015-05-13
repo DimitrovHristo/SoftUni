@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\bin\Debug\_04.Sequence_in_Matrix.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\bin\Debug\_04.Sequence_in_Matrix.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\obj\Debug\_04.Sequence_in_Matrix.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\obj\Debug\_04.Sequence_in_Matrix.pdb

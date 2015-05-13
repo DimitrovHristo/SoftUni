@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe.config
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\obj\Debug\_06.Count_Symbols.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\obj\Debug\_06.Count_Symbols.pdb

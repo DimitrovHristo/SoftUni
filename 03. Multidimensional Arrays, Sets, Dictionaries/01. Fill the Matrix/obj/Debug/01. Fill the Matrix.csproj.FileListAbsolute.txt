@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\01. Fill the Matrix\bin\Debug\_01.Fill_the_Matrix.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\01. Fill the Matrix\obj\Debug\01. Fill the Matrix.csprojResolveAssemblyReference.cache
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\01. Fill the Matrix\obj\Debug\_01.Fill_the_Matrix.pdb

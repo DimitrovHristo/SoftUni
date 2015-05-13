@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\02. Maximal Sum.csprojResolveAssemblyReference.cache
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb

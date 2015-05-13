@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\bin\Debug\_03.Matrix_shuffling.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\bin\Debug\_03.Matrix_shuffling.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\obj\Debug\_03.Matrix_shuffling.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\obj\Debug\_03.Matrix_shuffling.pdb
