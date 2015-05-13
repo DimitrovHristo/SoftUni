@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\06. Subset Sums\bin\Debug\_06.Subset_Sums.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\06. Subset Sums\obj\Debug\06. Subset Sums.csprojResolveAssemblyReference.cache
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\06. Subset Sums\obj\Debug\_06.Subset_Sums.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\06. Subset Sums\obj\Debug\_06.Subset_Sums.pdb

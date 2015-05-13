@@ -1,0 +1,5 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\02. Sort Array of Numbers Using Selection Sort.csprojResolveAssemblyReference.cache
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb

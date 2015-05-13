@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.pdb

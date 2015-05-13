@@ -1,0 +1,4 @@
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min, Max, Average\bin\Debug\_03.Categorize_Numbers_and_Find_Min__Max__Average.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min, Max, Average\bin\Debug\_03.Categorize_Numbers_and_Find_Min__Max__Average.pdb
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min, Max, Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min__Max__Average.exe
+D:\IT\Soft Uni\Homework\CSharpAdvance\Arrays, Lists, Stacks, Queues\03. Categorize Numbers and Find Min, Max, Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min__Max__Average.pdb
