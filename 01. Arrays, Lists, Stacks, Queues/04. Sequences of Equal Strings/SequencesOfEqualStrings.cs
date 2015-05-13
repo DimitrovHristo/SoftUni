@@ -5,19 +5,19 @@ class SequencesOfEqualStrings
 {
     static void Main()
     {
-        List<string> arrString = new List<string>(Console.ReadLine().Split());
+        List<string> arrayString = new List<string>(Console.ReadLine().Split());
 
 
-        for (int i = 0; i < arrString.Count; i++)
+        for (int i = 0; i < arrayString.Count; i++)
         {
-            if (i < arrString.Count - 1)
+            if (i < arrayString.Count - 1)
             {
-                for (int j = i + 1; j < arrString.Count; j++)
+                for (int j = i + 1; j < arrayString.Count; j++)
                 {
-                    if (arrString[i] == arrString[j])
+                    if (arrayString[i] == arrString[j])
                     {
-                        Console.Write(arrString[j] + " ");
-                        arrString.RemoveAt(j);
+                        Console.Write(arrayString[j] + " ");
+                        arrayString.RemoveAt(j);
                         j--;
                     }
                 }
